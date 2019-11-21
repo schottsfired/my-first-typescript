@@ -1,5 +1,7 @@
 # My First TypeScript
 
+The result of watching a TypeScript Crash Course: https://www.youtube.com/watch?v=rAy_3SIqT-E
+
 ## Getting Started
 Install Node on OSX with `brew install node`
 
